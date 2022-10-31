@@ -25,4 +25,4 @@
 > **My contacts**
 > - [Telegram](https://mimjs_dev.t.me/)
 > - [VK](https://vk.com/mimjs)
-> - [Email](mailto://mimjs_dev@gmail.com)
+> - [E-mail](mailto://mimjs_dev@gmail.com)
