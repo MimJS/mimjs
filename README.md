@@ -23,6 +23,6 @@
 > |amoCRM|July 2022 - today|
 #
 > **My contacts**
-> - Telegram: [click](https://mimjs_dev.t.me/)
-> - VK: [click](https://vk.com/mimjs)
-> - Email: [click](mailto://mimjs_dev@gmail.com)
+> - [Telegram](https://mimjs_dev.t.me/)
+> - [VK](https://vk.com/mimjs)
+> - [Email](mailto://mimjs_dev@gmail.com)
