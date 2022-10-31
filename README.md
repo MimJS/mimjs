@@ -1,16 +1,28 @@
-### Hi there 👋
+# MimJS
 
-<!--
-**MimJS/mimjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **About me**
+> - 17 y.o.
+> - From Moscow
+> - 2+ years of fullstack development
+#
+> **What I love to use for create websites**
+> - JavaScript
+> - TypeScript
+> - ReactJS
+> - Redux
+> - NodeJS
+> - Express
+> - MySQL
+#
+> **Work expirience**
+> |Company|Date|
+> |-|-|
+> |Freelance|Febrary 2020 - June 2021|
+> |Swiftle|June 2021 - December 2021|
+> |Freelance|December 2021 - July 2022|
+> |amoCRM|July 2022 - today|
+#
+> **My contacts**
+> - Telegram: [click](https://mimjs_dev.t.me/)
+> - VK: [click](https://vk.com/mimjs)
+> - Email: [click](mailto://mimjs_dev@gmail.com)
