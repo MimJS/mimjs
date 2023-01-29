@@ -11,7 +11,6 @@
 > - ReactJS
 > - Redux
 > - NodeJS
-> - Express
 > - MySQL
 #
 > **Work expirience**
