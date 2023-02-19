@@ -25,12 +25,13 @@
 > |amoCRM|July 2022 - today|
 #
 > **Examples of my work**
-> 1. [Telegram UI React Kit | Source](https://github.com/astralyxdev/twa-ui)
-> 2. [VKMA OnlyCoin | Source](https://github.com/MimJS/onlyCoin)
-> 3. [VKMA OnlyPlay | Source](https://github.com/MimJS/onlyPlay)
-> 4. [VKMA 1Coin | Source](https://github.com/MimJS/1coin-front-ishod)
-> 5. [TUQ | Showcase](https://tuq.im/tuq)
-> 6. [TON Wallet telegram WebApp | Showcase](https://xJetSwapBot.t.me)
+> - [Telegram UI React Kit | Source](https://github.com/astralyxdev/twa-ui)
+> - [VKMA OnlyCoin | Source](https://github.com/MimJS/onlyCoin)
+> - [VKMA OnlyPlay | Source](https://github.com/MimJS/onlyPlay)
+> - [VKMA 1Coin | Source](https://github.com/MimJS/1coin-front-ishod)
+> - [TUQ | Showcase](https://tuq.im/tuq)
+> - [TON Wallet telegram WebApp | Showcase](https://xJetSwapBot.t.me)
+> - and many others...
 #
 > **My contacts**
 > - [Telegram](https://mikm_dev.t.me)
