@@ -1,7 +1,7 @@
 # MimJS
 
 > **About me**
-> - 17 y.o.
+> - 18 y.o.
 > - From Moscow
 > - 3+ years of fullstack development
 > - Worked on projects for ton.org and vk.com
