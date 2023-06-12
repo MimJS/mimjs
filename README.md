@@ -1,8 +1,6 @@
 # MimJS
 
 > **About me**
-> - 18 y.o.
-> - From Moscow
 > - 3+ years of fullstack development
 > - Worked on projects for ton.org and vk.com
 > - Middle frontend developer in "amo | team messenger"
