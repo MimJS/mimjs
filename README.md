@@ -3,7 +3,6 @@
 > **About me**
 > - 4+ years of fullstack development
 > - Worked on projects for ton.org and vk.com
-> - Middle frontend developer in "amo | team messenger"
 #
 > **What I love to use for create websites**
 > - JavaScript
