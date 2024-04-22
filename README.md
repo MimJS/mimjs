@@ -30,8 +30,3 @@
 > - [TUQ | Showcase](https://tuq.im/tuq)
 > - [TON Wallet telegram WebApp | Showcase](https://xJetSwapBot.t.me)
 > - and many others...
-#
-> **My contacts**
-> - [Telegram](https://mikm_dev.t.me)
-> - [VK](https://vk.com/mimjs)
-> - [E-mail](mailto://mikhailmateevskiy@gmail.com)
