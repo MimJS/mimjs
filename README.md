@@ -1,7 +1,7 @@
 # MimJS
 
 > **About me**
-> - 4+ years of fullstack development
+> - 5+ years of fullstack development
 > - Worked on projects for ton.org and vk.com
 #
 > **What I love to use for create websites**
