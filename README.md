@@ -20,7 +20,8 @@
 > |Swiftle|June 2021 - December 2021|
 > |Freelance|December 2021 - July 2022|
 > |amoCRM|July 2022 - Nov 2023|
-> |ShakerQuiz|Nov 2023 - ...|
+> |ShakerQuiz|Nov 2023 - Sep 2024|
+> |OASys|Sep 2024 - ...|
 #
 > **Examples of my work**
 > - [Telegram UI React Kit | Source](https://github.com/astralyxdev/twa-ui)
