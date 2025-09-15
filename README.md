@@ -39,17 +39,6 @@ Worked with: [TON](https://ton.org) • [VK](https://vk.ru) • [amoCRM](https:/
 
 ---
 
-## 🌟 Featured Projects  
-
-- [Telegram UI React Kit](https://github.com/astralyxdev/twa-ui) — Component library for TWA  
-- [VKMA OnlyCoin](https://github.com/MimJS/onlyCoin)  
-- [VKMA OnlyPlay](https://github.com/MimJS/onlyPlay)  
-- [VKMA 1Coin](https://github.com/MimJS/1coin-front-ishod)  
-- [TUQ Showcase](https://tuq.im/tuq)  
-- [TON Wallet Telegram WebApp](https://xJetSwapBot.t.me)  
-
----
-
 ## 📫 Contact Me  
 
 - 📧 Email: [mimjsdev@gmail.com](mailto:mimjsdev@gmail.com)  
