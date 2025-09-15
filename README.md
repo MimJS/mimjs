@@ -50,7 +50,7 @@ Worked with: [TON](https://ton.org) • [VK](https://vk.ru) • [amoCRM](https:/
 
 ---
 
-## 📊 GitHub Stats  
+## 📫 Contact Me  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=MimJS&show_icons=true&theme=radical)  
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MimJS&layout=compact&theme=radical)  
+- 📧 Email: [mimjsdev@gmail.com](mailto:mimjsdev@gmail.com)  
+- 💬 Telegram: [@d6f6f6e6](https://t.me/d6f6f6e6)  
