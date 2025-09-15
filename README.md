@@ -30,9 +30,9 @@ Worked with: [TON](https://ton.org) • [VK](https://vk.ru) • [amoCRM](https:/
 
 | Company      | Date                      |
 |--------------|---------------------------|
-| Outsource    | Feb 2020 – Jun 2021       |
+| Outsource VK    | Feb 2020 – Jun 2021       |
 | Swiftle      | Jun 2021 – Dec 2021       |
-| Outsource    | Dec 2021 – Jul 2022       |
+| Outsource VK, TON   | Dec 2021 – Jul 2022       |
 | amoCRM       | Jul 2022 – Nov 2023       |
 | ShakerQuiz   | Nov 2023 – Sep 2024       |
 | OASys        | Sep 2024 – ...            |
