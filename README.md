@@ -2,12 +2,13 @@
 
 > **About me**
 > - 5+ years of fullstack development
-> - Worked on projects for ton.org and vk.com
+> - Worked on [TON](ton.org) | [VK](vk.ru) | [amoCRM](amocrm.ru)
 #
-> **What I love to use for create websites**
+> **Knowledges**
 > - JavaScript
 > - TypeScript
 > - ReactJS
+> - NextJS
 > - Redux
 > - NodeJS
 > - MySQL
@@ -16,18 +17,18 @@
 > **Work expirience**
 > |Company|Date|
 > |-|-|
-> |Freelance|Febrary 2020 - June 2021|
+> |Outsource|Febrary 2020 - June 2021|
 > |Swiftle|June 2021 - December 2021|
-> |Freelance|December 2021 - July 2022|
+> |Outsource|December 2021 - July 2022|
 > |amoCRM|July 2022 - Nov 2023|
 > |ShakerQuiz|Nov 2023 - Sep 2024|
 > |OASys|Sep 2024 - ...|
 #
-> **Examples of my work**
+> **Something intersting from my repositories**
 > - [Telegram UI React Kit | Source](https://github.com/astralyxdev/twa-ui)
 > - [VKMA OnlyCoin | Source](https://github.com/MimJS/onlyCoin)
 > - [VKMA OnlyPlay | Source](https://github.com/MimJS/onlyPlay)
 > - [VKMA 1Coin | Source](https://github.com/MimJS/1coin-front-ishod)
 > - [TUQ | Showcase](https://tuq.im/tuq)
 > - [TON Wallet telegram WebApp | Showcase](https://xJetSwapBot.t.me)
-> - and many others...
+> - ...
