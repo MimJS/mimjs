@@ -35,7 +35,7 @@ Worked with: [TON](https://ton.org) • [VK](https://vk.ru) • [amoCRM](https:/
 | Outsource VK, TON   | Dec 2021 – Jul 2022       |
 | amoCRM       | Jul 2022 – Nov 2023       |
 | ShakerQuiz   | Nov 2023 – Sep 2024       |
-| OASys        | Sep 2024 – ...            |
+| NDA        | Sep 2024 – ...            |
 
 ---
 
