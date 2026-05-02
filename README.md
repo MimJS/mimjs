@@ -1,13 +1,13 @@
 # 👋 Hey, I'm MimJS  
 
-💻 **Fullstack Developer** | 🚀 **Frontend Architect** | 🎯 5+ years of experience  
+💻 **Fullstack Developer** | 🚀 **Frontend Architect** | 🎯 6+ years of experience  
 
 Worked with: [TON](https://ton.org) • [VK](https://vk.ru) • [amoCRM](https://amocrm.ru)  
 
 ---
 
 ## 🧩 About Me  
-- 5+ years building production-grade apps  
+- 6+ years building production-grade apps  
 - Architecting frontend solutions with scalability in mind  
 - Passion for crafting products that feel like **Apple in their niche**  
 
