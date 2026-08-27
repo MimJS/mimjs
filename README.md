@@ -1,6 +1,6 @@
-# 👋 Hey, I'm MimJS  
+# 👋 Hey, I'm Moon  
 
-💻 **Fullstack Developer** | 🚀 **Frontend Architect** | 🎯 6+ years of experience  
+🚀 **Frontend Architect** | 💻 **Fullstack Developer** | 🎯 6+ years of experience  
 
 Worked with: [TON](https://ton.org) • [VK](https://vk.ru) • [amoCRM](https://amocrm.ru)  
 
