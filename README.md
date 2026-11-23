@@ -1,45 +1,21 @@
-# 👋 Hey, I'm Moon  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img alt="Mikhail Mateevskiy, Senior Frontend Engineer. React, TypeScript, Next.js. Yerevan, Armenia, UTC+4, open to remote roles." src="assets/header-light.svg" width="100%">
+</picture>
 
-🚀 **Frontend Architect** | 💻 **Fullstack Developer** | 🎯 6+ years of experience  
+I've spent 6 years shipping production React and TypeScript products: a cross-platform desktop messenger at amoCRM, real-time games at VK, and now a B2B SaaS platform for PC gaming clubs. I like owning a product area end to end: architecture, performance, CI/CD and the details users feel.
 
-Worked with: [TON](https://ton.org) • [VK](https://vk.ru) • [amoCRM](https://amocrm.ru)  
+**Now:** leading the frontend of a new B2B SaaS platform for PC gaming clubs (company under NDA). Four apps on one shared architecture, admin panel at Lighthouse Performance 98 on desktop, zero Sentry errors over its last two weeks in production.
 
----
+**Before:** amoCRM (Electron desktop messenger, memory cut from 300 MB to 50–70 MB), VK (led a team of 6 on a real-time VK Mini Apps game), Shaker Quiz, Astralyx. [Full timeline on LinkedIn](https://www.linkedin.com/in/mikhailmateevskiy).
 
-## 🧩 About Me  
-- 6+ years building production-grade apps  
-- Architecting frontend solutions with scalability in mind  
-- Passion for crafting products that feel like **Apple in their niche**  
+<br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <img alt="Stack: React, Next.js, TypeScript, Redux, TanStack Query, Vite, Tailwind, Sass, Electron, Storybook, GitHub Actions, Docker, Sentry" src="assets/stack-light.svg" width="100%">
+</picture>
 
-## 🛠 Tech Stack  
+### Contact
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=fff)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=fff)  
-
----
-
-## 📂 Work Experience  
-
-| Company      | Date                      |
-|--------------|---------------------------|
-| Outsource VK    | Feb 2020 – Jun 2021       |
-| Swiftle      | Jun 2021 – Dec 2021       |
-| Outsource VK, TON   | Dec 2021 – Jul 2022       |
-| amoCRM       | Jul 2022 – Nov 2023       |
-| ShakerQuiz   | Nov 2023 – Sep 2024       |
-| NDA        | Sep 2024 – ...            |
-
----
-
-## 📫 Contact Me  
-
-- 📧 Email: [mimjsdev@gmail.com](mailto:mimjsdev@gmail.com)  
-- 💬 Telegram: [@d6f6f6e6](https://t.me/d6f6f6e6)  
+[mikhailmateevskiy@gmail.com](mailto:mikhailmateevskiy@gmail.com) · [Telegram](https://t.me/d6f6f6e6) · [LinkedIn](https://www.linkedin.com/in/mikhailmateevskiy)
